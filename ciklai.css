@@ -1,0 +1,16 @@
+.border{
+    border: 1px solid red ;
+    max-width: 69%;
+    margin: auto;
+    line-height: 12px;
+}
+.rombas{
+    transform: rotate(44deg);
+    margin: 100px 0 0 100px;
+    max-width: 14.3%;
+    line-height: 13px;
+}
+.rombas > p {
+    display: inline-block;
+    margin: 0;
+}
